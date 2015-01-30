@@ -1,0 +1,1 @@
+/opt/mqm/samp/bin/amqsput   HUB.TOPS.LQ   HUB_TEST < HUB_SND_EXAMP.TXT

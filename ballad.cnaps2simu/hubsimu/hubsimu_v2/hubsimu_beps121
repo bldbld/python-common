@@ -1,0 +1,1 @@
+python mqsimu.py 1 0 HUB_SND_BEPS_121.TXT 10 1 Q.BANK2CPG QMBANK
