@@ -1,7 +1,6 @@
 # encoding: utf-8
 
 '''
-Freedom Repayment Calc
 Using for calc CHINA 公积金贷款利息
 Created on 2015-1-27
 @author: BALLAD
